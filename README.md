@@ -60,7 +60,13 @@
 ## NGROK 
 
 [Ngrok](https://github.com/ahmedg10/tcptools/blob/34ee7c00d95066293d32a63c16014ef3c01d2cfb/ngrok-proof.jpg)
+
+## DORA Extra Credit 
 [DORA + DHCP](https://github.com/ahmedg10/tcptools/blob/main/Dora%2Blease.jpg)
 
+
+#Player Intercept Extra Credit 
+I beleive, I am looking at the data interecting between me and a another chess player. However, it is just encripted
+[Player Intercept](https://github.com/ahmedg10/tcptools/blob/main/PlayerIntercept.jpg)
 
 
