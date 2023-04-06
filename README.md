@@ -65,7 +65,7 @@
 [DORA + DHCP](https://github.com/ahmedg10/tcptools/blob/main/Dora%2Blease.jpg)
 
 
-#Player Intercept Extra Credit 
+## Player Intercept Extra Credit 
 I beleive, I am looking at the data interecting between me and a another chess player. However, it is just encripted
 [Player Intercept](https://github.com/ahmedg10/tcptools/blob/main/PlayerIntercept.jpg)
 
